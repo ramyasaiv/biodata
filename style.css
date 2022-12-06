@@ -1,0 +1,53 @@
+h1
+{
+    color:crimson;
+}
+h2
+{
+    color: blue;
+}
+.first
+{
+  text-align: center;  
+  align-items: center;
+}
+.second
+{
+    margin-left: 5%;
+}
+.full
+{
+    border-radius: 35px;
+    background-image: url('images (4).jpeg');
+    align-items: center;
+    border-style:solid;
+    border-color:rgb(66, 38, 4);
+    border-top-width: 7px;
+    border-right-width: 7px;
+    border-left-width: 7px;
+    border-bottom-width: 7px;
+}
+body
+{
+    max-width: 60%;
+    max-height: 40%;
+    margin-left: 20%;
+   
+}
+img
+{
+        display: block;
+        margin: auto;
+        border-radius: 50%;
+        border:15px sol;
+} 
+table{
+    color: rgb(1, 1, 27);
+}
+th{
+
+color: blueviolet;
+}
+
+
+    
